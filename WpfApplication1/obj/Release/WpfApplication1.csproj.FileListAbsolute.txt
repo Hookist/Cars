@@ -1,0 +1,42 @@
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\Бог\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\App.g.cs
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\student.STEP\Desktop\Новая папка\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\App.g.cs
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (4)\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Новая папка (9)\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\student.STEP\Desktop\Новая папка (9)\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\student.STEP\Desktop\Новая папка (9)\WpfApplication1\obj\Release\WpfApplication1.pdb

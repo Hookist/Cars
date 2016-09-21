@@ -1,0 +1,45 @@
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\bin\Debug\Server.exe
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\bin\Debug\Server.pdb
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\obj\Debug\Server.exe
+C:\Users\Бог\Documents\Visual Studio 2013\Projects\ServerGonki\Server\Server\obj\Debug\Server.pdb
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.exe
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.pdb
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe
+C:\Users\Бог\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.pdb
+C:\Users\student.STEP\Desktop\dd\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student.STEP\Desktop\dd\Server\Server\obj\Debug\Server.exe
+C:\Users\student.STEP\Desktop\dd\Server\Server\obj\Debug\Server.pdb
+C:\Users\student.STEP\Desktop\dd\Server\Server\bin\Debug\Server.exe
+C:\Users\student.STEP\Desktop\dd\Server\Server\bin\Debug\Server.pdb
+C:\Users\student.STEP\Desktop\dd\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.exe
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.pdb
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.exe
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.pdb
+C:\Users\Бог\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.exe
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.pdb
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.exe
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\bin\Debug\Server.pdb
+C:\Users\student\Desktop\Новая папка (3)\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\obj\Debug\Server.exe
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\obj\Debug\Server.pdb
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\bin\Debug\Server.exe
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\bin\Debug\Server.pdb
+C:\Users\student.STEP\Desktop\Новая папка\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.exe
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.pdb
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.exe
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\bin\Debug\Server.pdb
+C:\Users\student\Desktop\Новая папка (4)\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Новая папка (9)\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student.STEP\Desktop\Новая папка (9)\Server\Server\obj\Debug\Server.exe
+C:\Users\student.STEP\Desktop\Новая папка (9)\Server\Server\obj\Debug\Server.pdb
